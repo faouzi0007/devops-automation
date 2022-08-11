@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "welcome to faouzi0007";
+		return "welcome to faouzi seddouki SpringBoot";
 	}
 
 	public static void main(String[] args) {
