@@ -11,7 +11,7 @@ public class DevopsIntegrationApplication {
 
 	@GetMapping
 	public String message(){
-		return "Salamo 3alaykom";
+		return "Salamo 3alaykom Update 30/08/2022 8:40";
 	}
 
 	public static void main(String[] args) {
